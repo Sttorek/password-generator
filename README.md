@@ -5,7 +5,7 @@ In this activity ive created a random password generator using an EventListener,
 Check out the site below!
 
 
-Site-
+Site-https://sttorek.github.io/password-generator-st/
 
 
 !{Screenshot}(./images/Screenshot.png)
