@@ -1,7 +1,7 @@
 # password-generator-st
 
 
-In this activity ive created a random password generator using an EventListener, functions, for loops, and arrays.
+In this activity I have created a random password generator using an EventListener, functions, for loops, and arrays.
 Check out the site below!
 
 
