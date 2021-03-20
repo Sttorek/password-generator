@@ -8,4 +8,4 @@ Check out the site below!
 Site-https://sttorek.github.io/password-generator-st/
 
 
-!{Screenshot}(./images/Screenshot.png)
+![Screenshot](./images/Screenshot.png)
